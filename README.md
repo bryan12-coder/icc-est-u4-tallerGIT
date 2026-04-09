@@ -8,5 +8,5 @@ Nuevo cambio
 
 # practica del 8/abril
 
-aprendi A USAR GIT
+Aprendi A USAR GIT
 
