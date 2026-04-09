@@ -4,4 +4,9 @@
 
 Mi primer GIT
 
-Nuevp cambio
+Nuevo cambio
+
+# practica del 8/abril
+
+aprendi A USAR GIT
+
