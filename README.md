@@ -1,4 +1,4 @@
-# TALLER GIT
+# TALLER GITT
 
 ## Bryan Collaguazo
 
